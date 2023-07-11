@@ -1,7 +1,6 @@
 #### Hello 👋
 ##### 💬 [Connect with me](https://wannabtechie.com/)
-#####
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--
 **DeexithParand2k2/DeexithParand2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
