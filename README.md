@@ -1,7 +1,7 @@
 #### Hello 👋
 ##### 💬 [Connect with me](https://wannabtechie.com/)
 #####
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 <!--
 **DeexithParand2k2/DeexithParand2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
