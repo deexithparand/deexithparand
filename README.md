@@ -1,5 +1,5 @@
 #### Hello 👋
-##### 💬 [Connect with me](https://wannabtechie.com/)`{:target="_blank"}`
+##### 💬 [Connect with me](https://wannabtechie.com/){:target="_blank"}
 <!--
 **DeexithParand2k2/DeexithParand2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
