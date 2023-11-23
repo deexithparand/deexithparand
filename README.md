@@ -1,10 +1,5 @@
 #### Hello 👋
 ##### 💬 [Connect with me](https://deexithparand.dev/)
-
----
-
-![Code Flavor](https://github-readme-stats.vercel.app/api/top-langs/?username=deexithparand2k2&layout=compact)
-
 ---
 
 #### Hacktoberfest '23
