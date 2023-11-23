@@ -4,7 +4,7 @@
 ---
 
 ![Code Flavor](https://github-readme-stats.vercel.app/api/top-langs/?username=deexithparand2k2&layout=compact)
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=deexithparand2k2)](https://github.com/deexithparand2k2/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeexithParand2k2)](https://github.com/DeexithParand2k2/github-readme-stats)
 
 ---
 
