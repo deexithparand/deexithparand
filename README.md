@@ -1,5 +1,8 @@
 #### Hello 👋
-##### 💬 [Connect with me](https://deexithparand.dev/)
+<!--
+##### 💬 [Connect with me](https://deexithparand.dev/) 
+-->
+##### 💬 [Connect with me](https://deexithparand2k2.github.io/Resume/Deexith_Parandaman_Resume.pdf)
 ---
 
 #### Hacktoberfest '23
