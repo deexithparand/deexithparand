@@ -2,7 +2,7 @@
 <!--
 ##### 💬 [Connect with me](https://deexithparand.dev/) 
 -->
-##### 💬 [Connect with me](https://deexithparand2k2.github.io/Resume/Deexith_Parandaman_Resume.pdf)
+##### 💬 [Connect with me](https://deexithparand2k2.github.io/Resume/Deexith_Parandaman_Resume.pdf){:target="_blank"}
 ---
 
 #### Hacktoberfest '23
