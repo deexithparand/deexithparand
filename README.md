@@ -3,7 +3,7 @@
 
 ---
 
-![Code Flavor](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Code Flavor](https://github-readme-stats.vercel.app/api/top-langs/?username=deexithparand2k2&layout=compact)
 
 ---
 
