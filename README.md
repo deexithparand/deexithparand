@@ -4,6 +4,7 @@
 ---
 
 ![Code Flavor](https://github-readme-stats.vercel.app/api/top-langs/?username=deexithparand2k2&layout=compact)
+[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/deexithparand2k2/github-readme-stats)
 
 ---
 
