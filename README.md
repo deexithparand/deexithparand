@@ -1,7 +1,7 @@
 #### Hello 👋
 ##### 💬 [Connect with me](https://deexithparand.dev/)
 
-##### Hacktoberfest '23
+### Hacktoberfest '23
 [![An image of @deexithparand2k2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deexithparand2k2)](https://holopin.io/@deexithparand2k2)
 
 <!--
