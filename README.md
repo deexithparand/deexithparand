@@ -4,8 +4,10 @@
 -->
 ##### 💬 [Connect with me](https://deexithparand2k2.github.io/Resume/Deexith_Parandaman_Resume.pdf)
 
+---
 
-#### Hacktoberfest '23
+#### ***Hacktoberfest '23 🌟***
+
 [![An image of @deexithparand2k2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deexithparand2k2)](https://holopin.io/@deexithparand2k2)
 
 <!--
