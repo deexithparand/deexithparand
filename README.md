@@ -1,6 +1,6 @@
 #### Hello 👋
 
-##### 💬 [Connect with me](https://linktr.ee/deexithparand)
+##### 💬 <a href="https://linktr.ee/deexithparand" target="_blank">Connect with me</a>
 
 ---
 
