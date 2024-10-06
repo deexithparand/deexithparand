@@ -1,8 +1,6 @@
 #### Hello 👋
 
 ##### 💬 <a href="https://linktr.ee/deexithparand" target="_blank">Connect with me</a>
-
-
 <!--
 #### ***[Hacktoberfest '23 🌟](https://hacktoberfest.com/)***
 
