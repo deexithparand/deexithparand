@@ -3,7 +3,9 @@
 
 ----
 
+<!--
 #### ***[Hacktoberfest '23 🌟](https://hacktoberfest.com/)***
+-->
 
 [![An image of @deexithparand2k2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deexithparand2k2)](https://holopin.io/@deexithparand2k2)
 
