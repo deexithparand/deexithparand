@@ -7,10 +7,10 @@
 #### ***[Hacktoberfest '23 🌟](https://hacktoberfest.com/)***
 -->
 
-[![An image of @deexithparand2k2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deexithparand2k2)](https://holopin.io/@deexithparand2k2)
+[![An image of @deexithparand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deexithparand2k2)](https://holopin.io/@deexithparand2k2)
 
 <!--
-**DeexithParand2k2/DeexithParand2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deexithparand/deexithparand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
