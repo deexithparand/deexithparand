@@ -1,5 +1,5 @@
 #### Hello 👋
-##### 💬 <a href="https://linktr.ee/deexithparand" target="_blank">Connect with me</a>
+##### 💬 <a href="https://deexithparand.github.io/" target="_blank">Connect with me</a>
 
 ----
 
